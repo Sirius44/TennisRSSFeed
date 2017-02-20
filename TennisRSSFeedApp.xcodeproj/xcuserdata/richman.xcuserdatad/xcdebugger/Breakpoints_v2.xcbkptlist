@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TennisRSSFeedApp/ViewController/NewsFeedViewController.swift"
+            timestampString = "501178683.37491"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "41"
+            endingLineNumber = "41"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TennisRSSFeedApp/ViewController/NewsFeedViewController.swift"
+            timestampString = "501178735.246282"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "53"
+            endingLineNumber = "53"
+            landmarkName = "reloadTableWithArticles()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TennisRSSFeedApp/ViewController/NewsFeedViewController.swift"
+            timestampString = "501178742.8943"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "72"
+            endingLineNumber = "72"
+            landmarkName = "reloadTableWithArticles()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TennisRSSFeedApp/ViewController/NewsFeedViewController.swift"
+            timestampString = "501178841.093112"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "82"
+            endingLineNumber = "82"
+            landmarkName = "reloadTableWithArticles()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TennisRSSFeedApp.NewsFeedViewController.(reloadTableWithArticles () -&gt; ()).(closure #1).(closure #1)"
+                  moduleName = "TennisRSSFeedApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/richman/Documents/TennisRSSFeedApp/paul_project/TennisRSSFeedApp/ViewController/NewsFeedViewController.swift"
+                  timestampString = "501181310.820294"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "82"
+                  endingLineNumber = "82"
+                  offsetFromSymbolStart = "427">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TennisRSSFeedApp.NewsFeedViewController.(reloadTableWithArticles () -&gt; ()).(closure #1).(closure #1)"
+                  moduleName = "TennisRSSFeedApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/richman/Documents/TennisRSSFeedApp/paul_project/TennisRSSFeedApp/ViewController/NewsFeedViewController.swift"
+                  timestampString = "501181310.822328"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "82"
+                  endingLineNumber = "82"
+                  offsetFromSymbolStart = "606">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TennisRSSFeedApp/ViewController/NewsFeedViewController.swift"
+            timestampString = "501178871.627967"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "47"
+            endingLineNumber = "47"
+            landmarkName = "reloadTableWithArticles()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TennisRSSFeedApp.NewsFeedViewController.reloadTableWithArticles () -&gt; ()"
+                  moduleName = "TennisRSSFeedApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/richman/Documents/TennisRSSFeedApp/paul_project/TennisRSSFeedApp/ViewController/NewsFeedViewController.swift"
+                  timestampString = "501181310.825877"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TennisRSSFeedApp.NewsFeedViewController.(reloadTableWithArticles () -&gt; ()).(closure #1)"
+                  moduleName = "TennisRSSFeedApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/richman/Documents/TennisRSSFeedApp/paul_project/TennisRSSFeedApp/ViewController/NewsFeedViewController.swift"
+                  timestampString = "501181310.8283"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "49"
+                  endingLineNumber = "49"
+                  offsetFromSymbolStart = "23">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TennisRSSFeedApp/ViewController/NewsFeedViewController.swift"
+            timestampString = "501178875.436546"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "64"
+            endingLineNumber = "64"
+            landmarkName = "reloadTableWithArticles()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TennisRSSFeedApp.NewsFeedViewController.(reloadTableWithArticles () -&gt; ()).(closure #1)"
+                  moduleName = "TennisRSSFeedApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/richman/Documents/TennisRSSFeedApp/paul_project/TennisRSSFeedApp/ViewController/NewsFeedViewController.swift"
+                  timestampString = "501181310.832639"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "64"
+                  endingLineNumber = "64"
+                  offsetFromSymbolStart = "1114">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TennisRSSFeedApp.NewsFeedViewController.(reloadTableWithArticles () -&gt; ()).(closure #1)"
+                  moduleName = "TennisRSSFeedApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/richman/Documents/TennisRSSFeedApp/paul_project/TennisRSSFeedApp/ViewController/NewsFeedViewController.swift"
+                  timestampString = "501181310.834683"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "64"
+                  endingLineNumber = "64"
+                  offsetFromSymbolStart = "1297">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TennisRSSFeedApp/ViewController/NewsFeedViewController.swift"
+            timestampString = "501178881.164318"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "89"
+            endingLineNumber = "89"
+            landmarkName = "reloadTableWithArticles()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TennisRSSFeedApp/ViewController/NewsFeedViewController.swift"
+            timestampString = "501179012.506883"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "51"
+            endingLineNumber = "51"
+            landmarkName = "reloadTableWithArticles()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TennisRSSFeedApp/ViewController/NewsFeedViewController.swift"
+            timestampString = "501179028.282764"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "67"
+            endingLineNumber = "67"
+            landmarkName = "reloadTableWithArticles()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TennisRSSFeedApp/ViewController/NewsFeedViewController.swift"
+            timestampString = "501179036.506226"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "65"
+            endingLineNumber = "65"
+            landmarkName = "reloadTableWithArticles()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TennisRSSFeedApp.NewsFeedViewController.(reloadTableWithArticles () -&gt; ()).(closure #1)"
+                  moduleName = "TennisRSSFeedApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/richman/Documents/TennisRSSFeedApp/paul_project/TennisRSSFeedApp/ViewController/NewsFeedViewController.swift"
+                  timestampString = "501181310.849523"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "65"
+                  endingLineNumber = "65"
+                  offsetFromSymbolStart = "1313">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TennisRSSFeedApp.NewsFeedViewController.(reloadTableWithArticles () -&gt; ()).(closure #1).(closure #1)"
+                  moduleName = "TennisRSSFeedApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/richman/Documents/TennisRSSFeedApp/paul_project/TennisRSSFeedApp/ViewController/NewsFeedViewController.swift"
+                  timestampString = "501181310.851514"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "67"
+                  endingLineNumber = "67"
+                  offsetFromSymbolStart = "23">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TennisRSSFeedApp/API/NetworkManager.swift"
+            timestampString = "501179072.954414"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "70"
+            endingLineNumber = "70"
+            landmarkName = "parseAllArticleData(_:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

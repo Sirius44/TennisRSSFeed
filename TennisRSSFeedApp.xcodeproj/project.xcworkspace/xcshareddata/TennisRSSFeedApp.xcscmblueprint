@@ -1,0 +1,32 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "6B58FC522C132078A0B15FA7A8CF59308E6D10B0",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "7e713b46-7174-4b4d-ada8-c80fc5db2626++2385" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "6B58FC522C132078A0B15FA7A8CF59308E6D10B0" : 9223372036854775807,
+    "7e713b46-7174-4b4d-ada8-c80fc5db2626++2385" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "3DECF5CE-A11A-4499-A261-F414A2D8DE0A",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "6B58FC522C132078A0B15FA7A8CF59308E6D10B0" : "tennisrssapp\/",
+    "7e713b46-7174-4b4d-ada8-c80fc5db2626++2385" : "SmartTennisRss\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "TennisRSSFeedApp",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "TennisRSSFeedApp.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/bitbucket.org\/adeelmiraj\/tennisrssapp.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "6B58FC522C132078A0B15FA7A8CF59308E6D10B0"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "http:\/\/192.168.0.88:8888\/svn\/kcjwork",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "7e713b46-7174-4b4d-ada8-c80fc5db2626++2385"
+    }
+  ]
+}
